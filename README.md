@@ -7,3 +7,5 @@ Main goal is to predict how likely individuals are to receive their H1N1 and sea
 Each row in the dataset represents one person who responded to the National 2009 H1N1 Flu Survey.
 
 You can acces the live notebook click binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ali-Mbacho/Flu-Shot-Learning/master)
